@@ -1,0 +1,14 @@
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.AssemblyInfoInputs.cache
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.AssemblyInfo.cs
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.csproj.CoreCompileInputs.cache
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\bin\Debug\netcoreapp3.1\pj2_sem_2.exe
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\bin\Debug\netcoreapp3.1\pj2_sem_2.deps.json
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\bin\Debug\netcoreapp3.1\pj2_sem_2.runtimeconfig.json
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\bin\Debug\netcoreapp3.1\pj2_sem_2.runtimeconfig.dev.json
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\bin\Debug\netcoreapp3.1\pj2_sem_2.dll
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\bin\Debug\netcoreapp3.1\pj2_sem_2.pdb
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.dll
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.pdb
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.genruntimeconfig.cache
+E:\College\Fall 2021\CSE445\Project\2\pj2_sem_2\pj2_sem_2\obj\Debug\netcoreapp3.1\pj2_sem_2.csproj.AssemblyReference.cache
